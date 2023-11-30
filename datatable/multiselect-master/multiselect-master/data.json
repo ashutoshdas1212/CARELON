@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "name": "Saurabh",
+      "age": "20",
+      "city": "Prayagraj"
+    },
+    {
+      "name": "Vipin",
+      "age": 23,
+      "city": "Lucknow"
+    },
+    {
+      "name": "Saksham",
+      "age": 21,
+      "city": "Noida"
+    },
+    {
+      "name": "John",
+      "age": 28,
+      "city": "New York"
+    },
+    {
+      "name": "Alice",
+      "age": 25,
+      "city": "Los Angeles"
+    },
+    {
+      "name": "Emily",
+      "age": 22,
+      "city": "Chicago"
+    },
+    {
+      "name": "Michael",
+      "age": 31,
+      "city": "San Francisco"
+    },
+    {
+      "name": "Sophia",
+      "age": 27,
+      "city": "Seattle"
+    },
+    {
+      "name": "Matthew",
+      "age": 29,
+      "city": "Boston"
+    },
+    {
+      "name": "Olivia",
+      "age": 24,
+      "city": "Miami"
+    },
+    {
+      "name": "Daniel",
+      "age": 26,
+      "city": "Austin"
+    },
+    {
+      "name": "Emma",
+      "age": 30,
+      "city": "Denver"
+    },
+    {
+      "name": "James",
+      "age": 32,
+      "city": "Dallas"
+    }
+  ]
+}
